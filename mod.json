@@ -1,0 +1,19 @@
+{
+  "Name": "Plush Toys",
+  "Author": "Ebstral",
+  "Description": "toys in this set: blad_bochar, Ebstral, Germess, D4M9N, Mig24, Vulzer.",
+  "ModVersion": "1.1",
+  "GameVersion": "1.27.5",
+  "ThumbnailPath": "icon.png",
+  "EntryPoint": "Mod.Mod",
+  "Tags": [
+    "Fun"
+  ],
+  "Scripts": [
+    "script.cs",
+    "CategoryBuilder.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": null
+}
