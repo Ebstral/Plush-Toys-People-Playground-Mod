@@ -10,7 +10,7 @@
     "Fun"
   ],
   "Scripts": [
-    "script.cs",
+    "Plush_Main_script.cs",
     "CategoryBuilder.cs"
   ],
   "Active": true,
