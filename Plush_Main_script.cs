@@ -23,7 +23,7 @@ namespace Mod
                            {
                                OriginalItem = ModAPI.FindSpawnable("Plastic Barrel"),
                                NameOverride = "Samira",
-                               DescriptionOverride = "Samira is tired(",
+                               DescriptionOverride = "Samira is very tired(",
                                CategoryOverride = ModAPI.FindCategory("Plush"),
                                ThumbnailOverride = ModAPI.LoadSprite("icn/Samira.png"),
                                AfterSpawn = (Instance) =>
@@ -39,7 +39,7 @@ namespace Mod
                 {
                     OriginalItem = ModAPI.FindSpawnable("Plastic Barrel"),
                     NameOverride = "Vasilisa",
-                    DescriptionOverride = "Good captain, now make me some coffee and meow.",
+                    DescriptionOverride = "Good captain, now bring me some coffee and meow.",
                     CategoryOverride = ModAPI.FindCategory("Plush"),
                     ThumbnailOverride = ModAPI.LoadSprite("icn/Vasilisa.png"),
                     AfterSpawn = (Instance) =>
@@ -55,7 +55,7 @@ namespace Mod
                 {
                     OriginalItem = ModAPI.FindSpawnable("Plastic Barrel"),
                     NameOverride = "Kate",
-                    DescriptionOverride = "Good HOS.. you rarely see such.",
+                    DescriptionOverride = "Good HOS.. it's rare to come across someone like that.",
                     CategoryOverride = ModAPI.FindCategory("Plush"),
                     ThumbnailOverride = ModAPI.LoadSprite("icn/Kate.png"),
                     AfterSpawn = (Instance) =>
@@ -72,7 +72,7 @@ namespace Mod
                 {
                     OriginalItem = ModAPI.FindSpawnable("Plastic Barrel"),
                     NameOverride = "Koryo",
-                    DescriptionOverride = "The cutest nerd.",
+                    DescriptionOverride = "The cutest botanist.",
                     CategoryOverride = ModAPI.FindCategory("Plush"),
                     ThumbnailOverride = ModAPI.LoadSprite("icn/Koryo.png"),
                     AfterSpawn = (Instance) =>
@@ -88,7 +88,7 @@ namespace Mod
                 {
                     OriginalItem = ModAPI.FindSpawnable("Plastic Barrel"),
                     NameOverride = "Sasha",
-                    DescriptionOverride = "A professional in his field.",
+                    DescriptionOverride = "A professional in their field.",
                     CategoryOverride = ModAPI.FindCategory("Plush"),
                     ThumbnailOverride = ModAPI.LoadSprite("icn/Sasha.png"),
                     AfterSpawn = (Instance) =>
@@ -104,7 +104,7 @@ namespace Mod
                 {
                     OriginalItem = ModAPI.FindSpawnable("Plastic Barrel"),
                     NameOverride = "Yuna",
-                    DescriptionOverride = "The kindest Head of Staff.",
+                    DescriptionOverride = "A responsible Head of Personnel.",
                     CategoryOverride = ModAPI.FindCategory("Plush"),
                     ThumbnailOverride = ModAPI.LoadSprite("icn/Yuna.png"),
                     AfterSpawn = (Instance) =>
